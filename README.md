@@ -16,3 +16,4 @@ The blender folder contains two plugins:
     - For more info on the plugin: https://blendermarket.com/products/blender-for-unreal-engine The plugin itself is free on Github, but its well worth paying for. The author is extremely helpful and implemented every feature I asked for to support this demo: https://github.com/xavier150/Blender-For-UnrealEngine-Addons/issues/153
     
   
+Let me know if you have any questions!
