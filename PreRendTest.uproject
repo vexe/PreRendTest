@@ -1,0 +1,26 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.27",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PreRendTest",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Blutility"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "EditorScriptingUtilities",
+			"Enabled": true
+		},
+		{
+			"Name": "PythonAutomationTest",
+			"Enabled": true
+		}
+	]
+}
